@@ -1,8 +1,8 @@
-package com.zc.easy.appointment.application.ws.endpoint;
+package com.zc.easy.appointment.application.endpoint;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.zc.easy.appointment.application.ws.domain.Message;
+import com.zc.easy.appointment.application.domain.Message;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 
