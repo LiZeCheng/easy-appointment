@@ -1,4 +1,4 @@
-package com.zc.easy.appointment.application.ws.config;
+package com.zc.easy.appointment.application.config.ws;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

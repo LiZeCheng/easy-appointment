@@ -1,4 +1,4 @@
-package com.zc.easy.appointment.application.ws.domain;
+package com.zc.easy.appointment.application.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
